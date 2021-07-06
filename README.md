@@ -10,3 +10,11 @@ https://static.wikia.nocookie.net/among-us-wiki/images/8/84/Among_Us.png/revisio
 <br>
 <b> <u> by the war heres a website to find the keycode of any button (credit to darcy)</b> </u>
 https://keycode.info/
+
+
+James Campbell:
+I found a useful tool from W3Schools for finding a colour so if you don't know the name of a colour you want to use for a button or canvas you can use this tool:
+https://www.w3schools.com/colors/colors_picker.asp
+Thanks.
+
+P.S If Mr Phillips diapproves feel free to give me a demerit
