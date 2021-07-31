@@ -17,4 +17,4 @@ I found a useful tool from W3Schools for finding a colour so if you don't know t
 https://www.w3schools.com/colors/colors_picker.asp
 Thanks.
 
-P.S If Mr Phillips diapproves feel free to give me a demerit
+Also, if you want to include sound in your project, just copy and paste the github link with your file, no need for the 'raw' in the url otherwise it wont be able to read it.
