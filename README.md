@@ -17,4 +17,4 @@ I found a useful tool from W3Schools for finding a colour so if you don't know t
 https://www.w3schools.com/colors/colors_picker.asp
 Thanks.
 
-Also, if you want to include sound in your project, just copy and paste the github link with your file, no need for the 'raw' in the url otherwise it wont be able to read it.
+Also, if you want to include sound in your project, just copy and paste the github link with your file, but replace the 'blob' with 'raw', otherwise it won't be able to read the file.
